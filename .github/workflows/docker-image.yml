@@ -28,4 +28,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: chenditc/investment_data:latest
+          tags: majiajue/investment_data:latest
